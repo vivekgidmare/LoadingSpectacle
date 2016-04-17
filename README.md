@@ -3,6 +3,8 @@ loading spectacle for splash
 
 Loading animation to match splash screen
 
+Build an apk to see animation.
+
 <img src="art/screenshot.png" align="center" height="800" width="480" />
 
 
